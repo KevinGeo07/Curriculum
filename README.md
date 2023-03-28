@@ -14,7 +14,7 @@ Curriculum de practica
 3. Frances 
 
 
-##### ** Especializado **
+##### *Especializado*
 1. QGIS 
 2. SAGA
 3. Arcmap
