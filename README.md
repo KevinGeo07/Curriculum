@@ -29,6 +29,6 @@ Enseñanza de fundamento de Geografía en la UNA.*
 
 ### ***Trabajos realizados***
 
-![](https://i.ytimg.com/vi/RZDVarcRq5M/maxresdefault.jpg){width='100px'}
+![](https://i.ytimg.com/vi/RZDVarcRq5M/maxresdefault.jpg){width='300px'}
 
 
