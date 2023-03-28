@@ -29,6 +29,5 @@ Enseñanza de fundamento de Geografía en la UNA.*
 
 ### ***Trabajos realizados***
 
-![Cuenca Hidrografica](https://i.ytimg.com/vi/RZDVarcRq5M/maxresdefault.jpg){width='500px'}
-
+![Cuenca Hidrografica](https://i.ytimg.com/vi/RZDVarcRq5M/maxresdefault.jpg){width='400px'}
 
